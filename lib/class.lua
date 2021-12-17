@@ -1,4 +1,4 @@
-function class(base)
+function Class(base)
 	local cls = {}
   
 	-- Check if this is a subclass and if so, copy over all methods from base
